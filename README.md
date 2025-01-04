@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Computers
 - 📫 How to reach me itisvikasm@gmail.com
-- 😄 Pronouns: M
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Like fingerprints, everyone's tongue print is different.
 
 <!---
