@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Computers
 - 📫 How to reach me itisvikasm@gmail.com
 - 😄 Pronouns: M
-- ⚡ Fun fact: Be simple
+- ⚡ Fun fact: Like fingerprints, everyone's tongue print is different.
 
 <!---
 Vikas-M-Sigma/Vikas-M-Sigma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
